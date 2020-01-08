@@ -1,2 +1,2 @@
 # VaporWave Soundkit
- Vaporwave Drum and Sound Kit
+ Sound Kit using HTML & CSS
